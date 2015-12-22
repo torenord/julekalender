@@ -7,8 +7,10 @@
 # opp etter følgende regler:
 
 # * Id strengen må begynne med 0-3 små bokstaver (fra a-z).
-# * Rett etter bokstavene må det følge 2-8 tall. Tallene har verdi fra og med 0 til og med 9
-# * Rett etter tallene må det følge en streng med minst 3 store bokstaver (fra A-Z)
+# * Rett etter bokstavene må det følge 2-8 tall. Tallene har verdi fra
+#   og med 0 til og med 9
+# * Rett etter tallene må det følge en streng med minst 3 store
+#   bokstaver (fra A-Z)
 
 # Eksempler:
 # nbm675626906YGX -> Ugyldig
