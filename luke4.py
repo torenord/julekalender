@@ -1,3 +1,24 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# Deoksyribonukleinsyre (DNA) er den viktigste kjemiske bestanddelen i
+# arvematerialet til levende organismer. DNA består av deoksyribose,
+# en fosfatgruppe og fire nitrogenbaser. DNA er kodet med fire
+# utbyttbare "byggestener", kalt "baser", og kan forkortes A, C, G
+# eller T, etter deres kjemiske betegnelser: Adenin, Cytosin, Guanin
+# og Tymin.
+
+# I denne oppgaven er vi ute etter antall ganger 'A', 'C', 'G', og 'T'
+# oppstår i en Streng.
+
+# Eksempel: ATGCTTCAGAAAGGTCTTACG
+# Gir følgende svar: A6, C4, G5, T6
+
+# Svaret skal oppgis i en kommaseparert liste i alfabetisk rekkefølge
+# mellom bokstavene (dvs A, C, G, T).
+
+# Eksempel: A20, C2, G90, T22
+
 S = """TAACGAGTCTGCCACTAGATAGCCCGCGCTATTAATGGGATGTTCTAGGTCTTCACCTCGACCTATACAAGACGAGAAT
        TCTGGTTCAGCCGGTCCGGGGTCGGGAGTTTGGCTTCATAACACAATTGCAGGCGTCAGAGGCCATACCTTAAACCCAT
        CATACGACCGGTACGAAAATCCATGTCACAGACTAATGATCCCTGCTAAGAGATCGTAGCAACCGTTCTGGATCCAAGC
