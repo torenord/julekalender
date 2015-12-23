@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Luke 4
+
 # Deoksyribonukleinsyre (DNA) er den viktigste kjemiske bestanddelen i
 # arvematerialet til levende organismer. DNA består av deoksyribose,
 # en fosfatgruppe og fire nitrogenbaser. DNA er kodet med fire
