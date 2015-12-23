@@ -1,10 +1,13 @@
-def prime(n):
-    return all(n % i != 0 for i in range(2, int(n**0.5)+1))
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-def reverse(n):
-    return int(str(n)[::-1])
+# Luke 7
 
-def palindrome(n):
-    return n == reverse(n)
+# Finn summen av alle positive heltall mellom 0 og 1000 som er har 7
+# som en primtallsfaktor, der det reverserte tallet også har 7 som en
+# primtallsfaktor.
 
-print sum(prime(i) and prime(reverse(i)) and not palindrome(i) for i in range(1, 1000))
+# For eksempel teller 259 da en får 952 om en reverserer sifrene og
+# begge disse tallene har 7 som en primtallsfaktor.
+
+print sum(i for i in range(0, 1000+1) if i % 7 == int(str(i)[::-1]) % 7 == 0)
