@@ -1,0 +1,26 @@
+* Knowits julekalender 2015
+** Ferdigstilt [6/24]
+- [X] [[luke1.py][Luke 1]]
+- [X] [[luke2.py][Luke 2]]
+- [X] [[luke3.py][Luke 3]]
+- [ ] [[luke4.py][Luke 4]]
+- [ ] [[luke5.py][Luke 5]]
+- [ ] [[luke6.py][Luke 6]]
+- [ ] [[luke7.py][Luke 7]]
+- [ ] Luke 8
+- [ ] Luke 9
+- [ ] Luke 10
+- [ ] Luke 11
+- [ ] [[luke12.py][Luke 12]]
+- [ ] Luke 13
+- [ ] Luke 14
+- [ ] Luke 15
+- [ ] Luke 16
+- [ ] [[luke17.py][Luke 17]]
+- [X] [[luke18.py][Luke 18]]
+- [X] [[luke19.py][Luke 19]]
+- [ ] Luke 20
+- [ ] Luke 21
+- [X] [[luke22.py][Luke 22]]
+- [ ] Luke 23
+- [ ] Luke 24
