@@ -27,6 +27,6 @@
 from sys import stdin
 from re import match
 
-pattern = "^[a-z]{,3}[0-9]{2,8}[A-Z]{3,}\n$"
+pattern = "[a-z]{,3}[0-9]{2,8}[A-Z]{3,}"
 
 print sum(1 for line in stdin if match(pattern, line))
