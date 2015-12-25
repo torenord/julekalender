@@ -1,5 +1,5 @@
 * Knowits julekalender 2015
-** Ferdigstilt [15/24]
+** Ferdigstilt [16/24]
 - [X] [[file:luke1.py][Luke 1]]
 - [X] [[file:luke2.py][Luke 2]]
 - [X] [[file:luke3.py][Luke 3]]
@@ -23,4 +23,4 @@
 - [ ] Luke 21
 - [X] [[file:luke22.py][Luke 22]]
 - [X] [[file:luke23.py][Luke 23]]
-- [ ] Luke 24
+- [X] [[file:luke24.py][Luke 24]]
